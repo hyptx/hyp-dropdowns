@@ -1,7 +1,7 @@
 <?php
  /*
 Plugin Name: Hyp Dropdowns
-Plugin URI: http://dropdowns.myhyperspace.com/
+Plugin URI: https://github.com/hyptx/hyp-dropdowns
 Description: A nav menu designed for use with the Wordpress Menu system. With support for css or superfish dropdowns.
 Version: 1.0
 Author: Adam J Nowak
